@@ -17,19 +17,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- **Product Management System**  
-  A REST API built with Spring Boot for managing products, brands, and categories. Includes advanced validation and supports file and database persistence.
-
-- **Blood Donation Support System** *(In Progress)*  
-  A system to manage blood donors with role-based access (Member, Staff, Admin), built using Spring Boot + React + SQL Server.
-
-- **Automated Testing Framework**  
-  A personal project for writing unit and integration tests using JUnit, TestNG, and applying TDD with DDT.
-
----
-
 ## 📊 GitHub Stats
 
 ![Khôi Nguyên's GitHub Stats](https://github-readme-stats.vercel.app/api?username=overcode250204&show_icons=true&theme=gruvbox&count_private=true)  
