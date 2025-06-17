@@ -38,7 +38,7 @@
 
 ## 📫 Get in Touch
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/your-name](https://www.linkedin.com/in/l%C3%AA-nguy%C3%AAn-807441248/))  
+- 🌐 [LinkedIn] (https://www.linkedin.com/in/lê-nguyên-807441248)
 - 📧 Email: khoinguyen.250204@gmail.com
 
 ---
