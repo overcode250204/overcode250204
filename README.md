@@ -57,7 +57,7 @@ As the **Lead Backend Developer**, I’m responsible for:
 **Cache:** Redis  
 **Databases:** PostgreSQL, SQL Server  
 **Testing:** JUnit, Mockito, TestNG, TDD, DDT  
-**DevOps & SCM:** GitHub, GitLab 
+**DevOps & SCM:** GitHub, GitLab
 **Cloud:** AWS (Cognito, EC2, Lambda, CloudWatch, DynamoDB)  
 **ORM:** Hibernate, JPA  
 **Documentation:** OpenAPI (Swagger)  
