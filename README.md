@@ -43,7 +43,7 @@ As the **Lead Backend Developer**, I’m responsible for:
 
 - **Languages:** Java, JavaScript (React), SQL  
 - **Frameworks:** Spring Framework, ReactJS  
-- **Architecture:** Microservices, Event-Driven Architecture, DDD  
+- **Architecture:** Microservices, Event-Driven Architecture
 - **Message Broker:** Apache Kafka  
 - **Build Tools:** Maven, Docker
 - **Cache:** Redis
