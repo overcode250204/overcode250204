@@ -44,8 +44,8 @@ As the **Lead Backend Developer**, I’m responsible for:
 
 ## Tech Stack
 
-**Languages:** Java, JavaScript (React), SQL  
-**Frameworks:** Spring Boot, ReactJS  
+**Languages:** Java, JavaScript, SQL  
+**Frameworks:** Spring Framework, ReactJS  
 **Architecture:** Microservices, Event-Driven Architecture  
 **Message Broker:** Apache Kafka  
 **Build Tools:** Maven, Docker  
