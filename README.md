@@ -40,6 +40,11 @@ As the **Lead Backend Developer**, I’m responsible for:
 - Built secure RESTful APIs with **JWT**, **Spring Security**, and **Role-based Access Control**.  
 - Applied the **Inbox-Outbox Pattern** with **Kafka** to ensure event consistency between services.  
 
+### Team & Source Management
+- Managed the **source code structure**, ensuring consistency and best practices across all services.  
+- Collaborated with other developers to **review code**, **resolve integration issues**, and **support debugging** across the project.  
+- Provided technical guidance to teammates, helping maintain code quality and architectural consistency.
+
 ---
 
 ## Tech Stack
