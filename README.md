@@ -61,6 +61,7 @@ As the **Lead Backend Developer**, I’m responsible for:
 **Documentation:** OpenAPI (Swagger)  
 **Cloud:** AWS (Cognito, EC2, Lambda, CloudWatch, DynamoDB) 
 **DevOps & SCM:** GitHub, GitLab
+
 ---
 
 ## GitHub Stats
