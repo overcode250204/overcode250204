@@ -60,7 +60,8 @@ As the **Lead Backend Developer**, I’m responsible for:
 **ORM:** Hibernate, JPA  
 **Documentation:** OpenAPI (Swagger)  
 **Cloud:** AWS (Cognito, EC2, Lambda, CloudWatch, DynamoDB) 
-**DevOps&SCM:** GitHub, GitLab
+**DevOps & SCM:** GitHub, GitLab
+
 
 ---
 
